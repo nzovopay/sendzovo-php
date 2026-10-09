@@ -3,7 +3,13 @@
   "description": "Official PHP SDK for the Sendzovo transactional email and email verification APIs.",
   "type": "library",
   "license": "MIT",
-  "keywords": ["sendzovo", "email", "transactional-email", "email-verification", "smtp"],
+  "homepage": "https://sendzovo.com",
+  "keywords": ["sendzovo", "email", "email-api", "transactional-email", "email-verification", "smtp", "sdk"],
+  "support": {
+    "docs": "https://docs.sendzovo.com",
+    "source": "https://github.com/nzovopay/sendzovo-php",
+    "issues": "https://github.com/nzovopay/sendzovo-php/issues"
+  },
   "require": {
     "php": "^8.1",
     "ext-curl": "*",
