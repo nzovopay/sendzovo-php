@@ -1,5 +1,7 @@
 # Sendzovo PHP SDK
 
+**[Website](https://sendzovo.com)** · **[Documentation](https://docs.sendzovo.com)** · **[Send Email API](https://docs.sendzovo.com/send-email-api)** · **[Email Verification API](https://docs.sendzovo.com/email-verification-api)** · **[Free Email Checker](https://sendzovo.com/tools/email-checker)**
+
 Official PHP SDK for Sendzovo transactional email and email verification.
 
 ## Requirements
@@ -93,6 +95,20 @@ API validation, authentication, billing and domain errors are exposed through `S
 ## API base URL
 
 The SDK defaults to `https://api.sendzovo.com`. A custom base URL can be supplied for development/testing.
+
+## Documentation
+
+Full guides and API reference for every endpoint are at **[docs.sendzovo.com](https://docs.sendzovo.com)**:
+
+- [Quick start](https://docs.sendzovo.com/)
+- [Authentication and API keys](https://docs.sendzovo.com/authentication)
+- [Send Email API](https://docs.sendzovo.com/send-email-api)
+- [Email templates](https://docs.sendzovo.com/templates)
+- [SMTP settings](https://docs.sendzovo.com/smtp)
+- [Email Verification API](https://docs.sendzovo.com/email-verification-api)
+- [HTTP status codes and errors](https://docs.sendzovo.com/http-responses)
+
+Don't have an account yet? [Create a free Sendzovo account](https://app.sendzovo.com/register).
 
 ## License
 
